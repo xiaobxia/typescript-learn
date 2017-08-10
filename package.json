@@ -1,0 +1,25 @@
+{
+  "name": "typescript-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobxia/typescript-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobxia/typescript-learn/issues"
+  },
+  "homepage": "https://github.com/xiaobxia/typescript-learn#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "merge2": "^1.1.0",
+    "typescript": "^2.4.2"
+  }
+}
