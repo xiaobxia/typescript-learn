@@ -19,7 +19,7 @@ enum Color {Red = 2, Green, Blue}
 let dd: Color = Color.Green;
 //TODO any，就和js的变量一样
 let any: any = '2';
-let list: any[] = [1, true, "free"];
+let list1: any[] = [1, true, "free"];
 //TODO void只能赋值undefined和null
 let unusable: void = undefined;
 //TODO undefined和null
