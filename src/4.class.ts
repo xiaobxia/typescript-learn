@@ -1,6 +1,3 @@
-/**
- * Created by asus on 2017/8/10.
- */
 //TODO 声明类
 class Animal {
   readonly name: string; //TODO 默认public，可被继承，可被外部访问
