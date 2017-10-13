@@ -1,3 +1,7 @@
+//TODO 自定义
+type MY = [string, number];
+let my1: MY = ['1', 2];
+
 //TODO 布尔
 let boolean1: boolean = true;
 
@@ -10,6 +14,7 @@ let number1: number = 1;
 //TODO 数组 (元素的类型是相同的)
 let array1: number[] = [1];
 let array2: Array<number> = [1]; //数组泛型
+let array6: ReadonlyArray<number> = []; //只读数组
 
 //TODO 元组 (元素可以是不同的类型的)
 let array3: [string, number] = ['a', 1];
